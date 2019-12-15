@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">カラー名リスト</string>
+    <string name="pale_green">PaleGreen</string>
+    <string name="pale_turquoise">PaleTurquoise</string>
+    <string name="pale_violet_red">PaleVioletRed</string>
+    <string name="papaya_whip">PapayaWhip</string>
+    <string name="peach_puff">PeachPuff</string>
+    <string name="peru">Peru</string>
+    <string name="pink">Pink</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorPaleGreen">#98FB98</color>
+    <color name="colorPaleTurquoise">#AFEEEE</color>
+    <color name="colorPaleVioletRed">#DB7093</color>
+    <color name="colorPapayaWhip">#FFEFD5</color>
+    <color name="colorPeachPuff">#FFDAB9</color>
+    <color name="colorPeru">#CD853F</color>
+    <color name="colorPink">#FFC0CB</color>
+</resources>
