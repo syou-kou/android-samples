@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/next_page_button"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/next_page"
+        android:textColor="@android:color/white"
+        android:textSize="32sp"
+        android:layout_margin="16dp"
+        android:background="@color/colorOriginalRed"/>
+
+    <Button
+        android:id="@+id/internet_button"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/internet"
+        android:textColor="@android:color/white"
+        android:textSize="32sp"
+        android:layout_margin="16dp"
+        android:background="@color/colorOriginalBlue"/>
+
+    <Button
+        android:id="@+id/telephone_button"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/telephone"
+        android:textColor="@android:color/white"
+        android:textSize="32sp"
+        android:layout_margin="16dp"
+        android:background="@color/colorOriginalGreen"/>
+
+</LinearLayout>
