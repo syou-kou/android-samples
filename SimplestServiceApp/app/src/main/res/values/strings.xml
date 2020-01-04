@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">最もシンプルなサービス</string>
+    <string name="start_service">サービス開始</string>
+    <string name="stop_service">サービス停止</string>
+</resources>
