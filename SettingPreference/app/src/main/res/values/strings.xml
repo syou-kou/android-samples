@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SettingPreference</string>
+    <string name="user_name">ユーザー名</string>
+    <string name="user_name_hint">ユーザー名を入力してください。</string>
+    <string name="password">パスワード</string>
+    <string name="age">年齢</string>
+</resources>
